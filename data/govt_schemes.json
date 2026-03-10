@@ -1,0 +1,74 @@
+[
+  {
+    "name": "PM-KISAN",
+    "name_kn": "ಪಿಎಂ-ಕಿಸಾನ್",
+    "type": "central",
+    "benefit": "Rs 6000/year in 3 installments",
+    "benefit_kn": "ವರ್ಷಕ್ಕೆ ₹6000, 3 ಕಂತುಗಳಲ್ಲಿ ನೇರ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ",
+    "eligibility": "All farmer families with cultivable land",
+    "max_land_acres": 999,
+    "how_to_apply": "Visit nearest CSC center or apply online at pmkisan.gov.in",
+    "how_to_apply_kn": "ಹತ್ತಿರದ CSC ಕೇಂದ್ರಕ್ಕೆ ಆಧಾರ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್ ತೆಗೆದುಕೊಂಡು ಹೋಗಿ",
+    "keywords": ["ಪಿಎಂ", "ಕಿಸಾನ್", "6000", "PM", "KISAN", "ಹಣ", "money", "ಕಂತು"]
+  },
+  {
+    "name": "Raitha Siri",
+    "name_kn": "ರೈತ ಸಿರಿ",
+    "type": "state",
+    "benefit": "Subsidy on farm equipment and seeds",
+    "benefit_kn": "ಕೃಷಿ ಉಪಕರಣ ಮತ್ತು ಬೀಜಗಳ ಮೇಲೆ ಸಹಾಯಧನ, ₹10000 ವರೆಗೆ",
+    "eligibility": "Karnataka farmers with less than 5 acres",
+    "max_land_acres": 5,
+    "how_to_apply": "Apply through Raitha Samparka Kendra or Karnataka agriculture department portal",
+    "how_to_apply_kn": "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ, RTC ಮತ್ತು ಆಧಾರ್ ತೆಗೆದುಕೊಂಡು ಹೋಗಿ",
+    "keywords": ["ರೈತ", "ಸಿರಿ", "ಉಪಕರಣ", "ಬೀಜ", "equipment", "seed", "Raitha"]
+  },
+  {
+    "name": "PMFBY - Crop Insurance",
+    "name_kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ ಫಸಲ್ ಬಿಮಾ ಯೋಜನೆ",
+    "type": "central",
+    "benefit": "Crop insurance at 1.5-2% premium, full coverage for natural calamities",
+    "benefit_kn": "ಬೆಳೆ ವಿಮೆ: ಕೇವಲ 1.5-2% ಪ್ರೀಮಿಯಂ, ಮಳೆ/ಬರ/ಪ್ರವಾಹಕ್ಕೆ ಪೂರ್ಣ ಪರಿಹಾರ",
+    "eligibility": "All farmers growing notified crops",
+    "max_land_acres": 999,
+    "how_to_apply": "Apply through your bank branch before sowing season cutoff date",
+    "how_to_apply_kn": "ಬಿತ್ತನೆ ಮೊದಲು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಗೆ ಹೋಗಿ ಅರ್ಜಿ ಹಾಕಿ",
+    "keywords": ["ವಿಮೆ", "insurance", "ಫಸಲ್", "ಬಿಮಾ", "crop", "ಮಳೆ", "ಬರ", "damage"]
+  },
+  {
+    "name": "Krishi Bhagya",
+    "name_kn": "ಕೃಷಿ ಭಾಗ್ಯ",
+    "type": "state",
+    "benefit": "Farm pond, polyhouse, shade net subsidy up to 80%",
+    "benefit_kn": "ಕೃಷಿ ಹೊಂಡ ನಿರ್ಮಾಣ, ಪಾಲಿಹೌಸ್, ಶೇಡ್ ನೆಟ್‌ಗೆ 80% ಸಹಾಯಧನ",
+    "eligibility": "Small and marginal farmers in rainfed areas",
+    "max_land_acres": 5,
+    "how_to_apply": "Apply at Raitha Samparka Kendra with land documents",
+    "how_to_apply_kn": "ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರದಲ್ಲಿ RTC, ಪಹಣಿ ತೆಗೆದುಕೊಂಡು ಅರ್ಜಿ ಹಾಕಿ",
+    "keywords": ["ಭಾಗ್ಯ", "ಹೊಂಡ", "ಪಾಲಿಹೌಸ", "pond", "polyhouse", "ನೀರು", "water"]
+  },
+  {
+    "name": "Soil Health Card Scheme",
+    "name_kn": "ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾರ್ಡ್ ಯೋಜನೆ",
+    "type": "central",
+    "benefit": "Free soil testing and nutrient recommendation card",
+    "benefit_kn": "ಉಚಿತ ಮಣ್ಣು ಪರೀಕ್ಷೆ ಮತ್ತು ಗೊಬ್ಬರ ಶಿಫಾರಸು ಕಾರ್ಡ್",
+    "eligibility": "All farmers",
+    "max_land_acres": 999,
+    "how_to_apply": "Contact your Krishi Vigyan Kendra or agriculture officer",
+    "how_to_apply_kn": "ಹತ್ತಿರದ ಕೃಷಿ ವಿಜ್ಞಾನ ಕೇಂದ್ರ ಅಥವಾ ಕೃಷಿ ಅಧಿಕಾರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ",
+    "keywords": ["ಮಣ್ಣು", "soil", "ಪರೀಕ್ಷೆ", "test", "health", "ಆರೋಗ್ಯ", "ಗೊಬ್ಬರ"]
+  },
+  {
+    "name": "Kisan Credit Card",
+    "name_kn": "ಕಿಸಾನ್ ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್",
+    "type": "central",
+    "benefit": "Low interest crop loan up to Rs 3 lakh at 4% interest",
+    "benefit_kn": "₹3 ಲಕ್ಷದವರೆಗೆ ಕೃಷಿ ಸಾಲ, ಕೇವಲ 4% ಬಡ್ಡಿ ದರ",
+    "eligibility": "All farmers, sharecroppers, tenant farmers",
+    "max_land_acres": 999,
+    "how_to_apply": "Apply at any bank with land documents and ID proof",
+    "how_to_apply_kn": "ಯಾವುದೇ ಬ್ಯಾಂಕ್‌ಗೆ ಆಧಾರ್, ಪಹಣಿ, ಪಾಸ್‌ಪೋರ್ಟ್ ಫೋಟೋ ತೆಗೆದುಕೊಂಡು ಹೋಗಿ",
+    "keywords": ["ಸಾಲ", "loan", "ಕ್ರೆಡಿಟ್", "credit", "KCC", "ಬಡ್ಡಿ", "interest", "ಬ್ಯಾಂಕ್"]
+  }
+]

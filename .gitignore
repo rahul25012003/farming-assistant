@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# GCP credentials - NEVER commit these
+config/gcp-credentials.json
+*.json.key
+
+# Model files (too large for git)
+models/*.h5
+models/*.tflite
+models/*.pb
+models/*.savedmodel/
+
+# Audio cache
+cache/tts_audio/
+cache/*.db
+
+# Static heatmaps
+static/heatmaps/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log

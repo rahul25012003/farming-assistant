@@ -1,0 +1,110 @@
+{
+  "Tomato_Bacterial_Spot": {
+    "name": "Bacterial Spot",
+    "name_kn": "ಬ್ಯಾಕ್ಟೀರಿಯಾ ಕಲೆ ರೋಗ",
+    "symptoms_kn": "ಎಲೆಗಳ ಮೇಲೆ ಸಣ್ಣ ಕಪ್ಪು-ಕಂದು ಚುಕ್ಕೆಗಳು, ನೀರಿನಂತಹ ಕಲೆಗಳು",
+    "treatment_kn": "ರೋಗಪೀಡಿತ ಎಲೆಗಳನ್ನು ತೆಗೆದು ಸುಡಿ. ತಾಮ್ರದ ಔಷಧಿ ಸಿಂಪಡಿಸಿ. ಮಳೆಯ ನಂತರ ಮತ್ತೆ ಸಿಂಪಡಿಸಿ.",
+    "chemicals": ["Copper Oxychloride (3g/L)", "Streptocycline (1g/10L)"],
+    "organic_option": "ಬೇವಿನ ಎಣ್ಣೆ (5ml/L) ಅಥವಾ ಟ್ರೈಕೋಡರ್ಮಾ ಬಳಸಿ",
+    "prevention_kn": "ನೀರನ್ನು ಎಲೆ ಮೇಲೆ ಹಾಕಬೇಡಿ, ಬುಡಕ್ಕೆ ಹಾಕಿ"
+  },
+  "Tomato_Early_Blight": {
+    "name": "Early Blight",
+    "name_kn": "ಆರಂಭಿಕ ಅಂಗಮಾರಿ ರೋಗ",
+    "symptoms_kn": "ಎಲೆಗಳ ಮೇಲೆ ಕಪ್ಪು ವೃತ್ತಾಕಾರ ಕಲೆಗಳು, ವಲಯಗಳು ಕಾಣುತ್ತವೆ",
+    "treatment_kn": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಕ್ಲೋರೋಥಲೋನಿಲ್ ಸಿಂಪಡಿಸಿ. 10 ದಿನಕ್ಕೊಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+    "chemicals": ["Mancozeb (2.5g/L)", "Chlorothalonil (2g/L)"],
+    "organic_option": "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ ಬಳಸಿ",
+    "prevention_kn": "ಬೆಳೆ ಅಂತರ ಸರಿಯಾಗಿಡಿ, ಗಾಳಿ ಆಡಲಿ"
+  },
+  "Tomato_Late_Blight": {
+    "name": "Late Blight",
+    "name_kn": "ತಡ ಅಂಗಮಾರಿ ರೋಗ",
+    "symptoms_kn": "ಎಲೆಗಳು ಮತ್ತು ಕಾಯಿಗಳ ಮೇಲೆ ಕಂದು-ಕಪ್ಪು ಕಲೆಗಳು, ಬಿಳಿ ಬೂಷ್ಟು ಕಾಣುತ್ತದೆ",
+    "treatment_kn": "ತಕ್ಷಣ ಮೆಟಲಾಕ್ಸಿಲ್ + ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ. ತುಂಬಾ ತೀವ್ರವಾಗಿದ್ದರೆ ರೋಗಗ್ರಸ್ತ ಗಿಡ ಕಿತ್ತು ಸುಡಿ.",
+    "chemicals": ["Metalaxyl + Mancozeb (Ridomil Gold 2.5g/L)", "Cymoxanil (1g/L)"],
+    "organic_option": "ಹಾಲಿನ ದ್ರಾವಣ (1:9 ನೀರು) ಸಿಂಪಡಿಸಿ",
+    "prevention_kn": "ಮಳೆಗಾಲದಲ್ಲಿ ಜಾಗ್ರತೆ, ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿ"
+  },
+  "Tomato_Leaf_Mold": {
+    "name": "Leaf Mold",
+    "name_kn": "ಎಲೆ ಬೂಷ್ಟು ರೋಗ",
+    "symptoms_kn": "ಎಲೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ಹಳದಿ-ಹಸಿರು ಬೂಷ್ಟು, ಮೇಲ್ಭಾಗ ಹಳದಿ ಕಲೆ",
+    "treatment_kn": "ಗಾಳಿ ಆಡುವಂತೆ ಮಾಡಿ. ಕ್ಲೋರೋಥಲೋನಿಲ್ ಅಥವಾ ತಾಮ್ರದ ಔಷಧಿ ಸಿಂಪಡಿಸಿ.",
+    "chemicals": ["Chlorothalonil (2g/L)", "Copper Hydroxide (2g/L)"],
+    "organic_option": "ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ, ಗಾಳಿ ಆಡಲು ಎಲೆ ಕತ್ತರಿಸಿ",
+    "prevention_kn": "ಪಾಲಿಹೌಸ್‌ನಲ್ಲಿ ತೇವಾಂಶ ನಿಯಂತ್ರಿಸಿ"
+  },
+  "Tomato_Healthy": {
+    "name": "Healthy",
+    "name_kn": "ಆರೋಗ್ಯಕರ",
+    "symptoms_kn": "",
+    "treatment_kn": "ನಿಮ್ಮ ಟೊಮೇಟೊ ಗಿಡ ಆರೋಗ್ಯವಾಗಿದೆ! ಯಾವುದೇ ರೋಗ ಕಂಡುಬಂದಿಲ್ಲ. ಹೀಗೇ ಚೆನ್ನಾಗಿ ನೋಡಿಕೊಳ್ಳಿ.",
+    "chemicals": [],
+    "organic_option": "",
+    "prevention_kn": "ನಿಯಮಿತವಾಗಿ ಬೇವಿನ ಎಣ್ಣೆ ಸಿಂಪಡಿಸಿ ರೋಗ ತಡೆಯಿರಿ"
+  },
+  "Grape_Black_Rot": {
+    "name": "Black Rot",
+    "name_kn": "ಕಪ್ಪು ಕೊಳೆ ರೋಗ",
+    "symptoms_kn": "ಎಲೆ ಮೇಲೆ ಕಂದು ಕಲೆ, ಹಣ್ಣು ಕಪ್ಪಾಗಿ ಒಣಗುತ್ತದೆ",
+    "treatment_kn": "ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ. ರೋಗಗ್ರಸ್ತ ಹಣ್ಣುಗಳನ್ನು ತೆಗೆದು ಹಾಕಿ.",
+    "chemicals": ["Mancozeb (2.5g/L)", "Myclobutanil (1g/L)"],
+    "organic_option": "ಬೋರ್ಡೊ ಮಿಶ್ರಣ (1%) ಸಿಂಪಡಿಸಿ",
+    "prevention_kn": "ಚಪ್ಪರ ಕೆಳಗೆ ಗಾಳಿ ಆಡಲಿ, ನೀರು ನಿಲ್ಲದಂತೆ ನೋಡಿ"
+  },
+  "Grape_Esca": {
+    "name": "Esca (Black Measles)",
+    "name_kn": "ಎಸ್ಕಾ ರೋಗ",
+    "symptoms_kn": "ಎಲೆಗಳ ಮೇಲೆ ಹುಲಿ ಪಟ್ಟೆ ಕಲೆಗಳು, ಬಳ್ಳಿ ಸೊರಗುತ್ತದೆ",
+    "treatment_kn": "ಈ ರೋಗಕ್ಕೆ ನಿರ್ದಿಷ್ಟ ಔಷಧಿ ಇಲ್ಲ. ರೋಗಗ್ರಸ್ತ ಕೊಂಬೆ ಕತ್ತರಿಸಿ. ಕತ್ತರಿಸಿದ ಜಾಗಕ್ಕೆ ಬೋರ್ಡೊ ಪೇಸ್ಟ್ ಹಚ್ಚಿ.",
+    "chemicals": ["Bordeaux Paste on wounds", "Carbendazim (1g/L) preventive"],
+    "organic_option": "ಟ್ರೈಕೋಡರ್ಮಾ ಬುಡಕ್ಕೆ ಹಾಕಿ",
+    "prevention_kn": "ಕತ್ತರಿ ಬಳಸುವ ಮೊದಲು ನಿರ್ಜಂತುಕ ಮಾಡಿ"
+  },
+  "Grape_Leaf_Blight": {
+    "name": "Leaf Blight (Isariopsis)",
+    "name_kn": "ಎಲೆ ಅಂಗಮಾರಿ ರೋಗ",
+    "symptoms_kn": "ಎಲೆ ಕೆಳಭಾಗದಲ್ಲಿ ಕಂದು ಕಲೆ, ಎಲೆ ಒಣಗಿ ಬೀಳುತ್ತದೆ",
+    "treatment_kn": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ತಾಮ್ರದ ಔಷಧಿ ಸಿಂಪಡಿಸಿ. 7-10 ದಿನಕ್ಕೊಮ್ಮೆ ಪುನರಾವರ್ತಿಸಿ.",
+    "chemicals": ["Mancozeb (2.5g/L)", "Copper Oxychloride (3g/L)"],
+    "organic_option": "ಬೋರ್ಡೊ ಮಿಶ್ರಣ (1%)",
+    "prevention_kn": "ಚಪ್ಪರ ಕೆಳಗೆ ಗಾಳಿ ಆಡಲಿ"
+  },
+  "Grape_Healthy": {
+    "name": "Healthy",
+    "name_kn": "ಆರೋಗ್ಯಕರ",
+    "symptoms_kn": "",
+    "treatment_kn": "ನಿಮ್ಮ ದ್ರಾಕ್ಷಿ ಬಳ್ಳಿ ಆರೋಗ್ಯವಾಗಿದೆ! ಚೆನ್ನಾಗಿ ನೋಡಿಕೊಳ್ಳಿ.",
+    "chemicals": [],
+    "organic_option": "",
+    "prevention_kn": "ನಿಯಮಿತ ಕತ್ತರಿಸುವಿಕೆ ಮತ್ತು ತಡೆ ಸಿಂಪಡಣೆ ಮಾಡಿ"
+  },
+  "Maize_Common_Rust": {
+    "name": "Common Rust",
+    "name_kn": "ಸಾಮಾನ್ಯ ತುಕ್ಕು ರೋಗ",
+    "symptoms_kn": "ಎಲೆ ಎರಡೂ ಬದಿಯಲ್ಲಿ ಕಂದು-ಕೆಂಪು ಬೊಕ್ಕೆಗಳು",
+    "treatment_kn": "ಮ್ಯಾಂಕೋಜೆಬ್ ಅಥವಾ ಪ್ರೊಪಿಕೊನಝೋಲ್ ಸಿಂಪಡಿಸಿ. ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಳಸಿ.",
+    "chemicals": ["Mancozeb (2.5g/L)", "Propiconazole (1ml/L)"],
+    "organic_option": "ಬೇವಿನ ಎಣ್ಣೆ (5ml/L) + ಬೆಳ್ಳುಳ್ಳಿ ಕಷಾಯ",
+    "prevention_kn": "ರೋಗ ನಿರೋಧಕ ತಳಿ ಬಿತ್ತಿ"
+  },
+  "Maize_Northern_Leaf_Blight": {
+    "name": "Northern Leaf Blight",
+    "name_kn": "ಉತ್ತರ ಎಲೆ ಅಂಗಮಾರಿ",
+    "symptoms_kn": "ಉದ್ದವಾದ ಬೂದು-ಹಸಿರು ಕಲೆಗಳು ಎಲೆ ಮೇಲೆ, ಸಿಗಾರ್ ಆಕಾರ",
+    "treatment_kn": "ಪ್ರೊಪಿಕೊನಝೋಲ್ ಅಥವಾ ಮ್ಯಾಂಕೋಜೆಬ್ ಸಿಂಪಡಿಸಿ.",
+    "chemicals": ["Propiconazole (Tilt 1ml/L)", "Mancozeb (2.5g/L)"],
+    "organic_option": "ಟ್ರೈಕೋಡರ್ಮಾ ವಿರಿಡೆ ಎಲೆಗೆ ಸಿಂಪಡಿಸಿ",
+    "prevention_kn": "ಬೆಳೆ ಬದಲಾವಣೆ ಮಾಡಿ, ಸತತ ಮೆಕ್ಕೆಜೋಳ ಬೆಳೆಯಬೇಡಿ"
+  },
+  "Maize_Healthy": {
+    "name": "Healthy",
+    "name_kn": "ಆರೋಗ್ಯಕರ",
+    "symptoms_kn": "",
+    "treatment_kn": "ನಿಮ್ಮ ಮೆಕ್ಕೆಜೋಳ ಆರೋಗ್ಯವಾಗಿದೆ! ಹೀಗೇ ಮುಂದುವರಿಸಿ.",
+    "chemicals": [],
+    "organic_option": "",
+    "prevention_kn": "ಸಕಾಲಕ್ಕೆ ಗೊಬ್ಬರ ಮತ್ತು ನೀರು ಕೊಡಿ"
+  }
+}

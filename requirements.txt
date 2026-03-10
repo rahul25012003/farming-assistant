@@ -1,0 +1,19 @@
+flask==2.3.3
+gunicorn==21.2.0
+python-dotenv==1.0.0
+
+# Google Cloud
+google-cloud-speech==2.21.0
+google-cloud-texttospeech==2.14.1
+
+# Computer Vision & ML
+tensorflow==2.13.0
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.0.1
+
+# HTTP
+requests==2.31.0
+
+# Testing
+pytest==7.4.3

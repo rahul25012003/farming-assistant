@@ -1,0 +1,74 @@
+{
+  "kolar": {
+    "district": "Kolar",
+    "soil_type": "Red Sandy Loam",
+    "soil_type_kn": "ಕೆಂಪು ಮರಳು ಮಣ್ಣು",
+    "ph_range": "5.5 - 6.8",
+    "organic_carbon": "Low (0.3-0.5%)",
+    "characteristics": "Well-drained, low water retention, prone to erosion",
+    "recommended_crops": ["tomato", "ragi", "groundnut", "mulberry", "grape", "mango"],
+    "recommended_crops_kn": ["ಟೊಮೇಟೊ", "ರಾಗಿ", "ಶೇಂಗಾ", "ಹಿಪ್ಪುನೇರಳೆ", "ದ್ರಾಕ್ಷಿ", "ಮಾವು"],
+    "fertilizer_advice_kn": "ಸಾವಯವ ಗೊಬ್ಬರ ಹಾಕಿ. ಸಾರಜನಕ ಕಡಿಮೆ ಇರುತ್ತದೆ, ಯೂರಿಯಾ ಮತ್ತು ಎರೆಹುಳು ಗೊಬ್ಬರ ಬಳಸಿ.",
+    "irrigation_note": "Drip irrigation recommended due to low water retention"
+  },
+  "bengaluru_rural": {
+    "district": "Bengaluru Rural",
+    "soil_type": "Red Laterite",
+    "soil_type_kn": "ಕೆಂಪು ಜಂಬಿಟ್ಟಿಗೆ ಮಣ್ಣು",
+    "ph_range": "5.0 - 6.5",
+    "organic_carbon": "Low to Medium (0.4-0.6%)",
+    "characteristics": "High iron content, acidic, moderate drainage",
+    "recommended_crops": ["ragi", "eucalyptus", "grape", "vegetables", "flowers"],
+    "recommended_crops_kn": ["ರಾಗಿ", "ನೀಲಗಿರಿ", "ದ್ರಾಕ್ಷಿ", "ತರಕಾರಿ", "ಹೂವು"],
+    "fertilizer_advice_kn": "ಮಣ್ಣು ಆಮ್ಲೀಯ ಇದೆ, ಸುಣ್ಣ ಹಾಕಿ pH ಸರಿಮಾಡಿ. DAP ಮತ್ತು ಕಾಂಪೋಸ್ಟ್ ಬಳಸಿ.",
+    "irrigation_note": "Both drip and sprinkler work well"
+  },
+  "tumkur": {
+    "district": "Tumkur",
+    "soil_type": "Red Sandy Soil",
+    "soil_type_kn": "ಕೆಂಪು ಮರಳು ಮಣ್ಣು",
+    "ph_range": "6.0 - 7.0",
+    "organic_carbon": "Low (0.3-0.4%)",
+    "characteristics": "Coarse texture, poor nutrient retention, drains quickly",
+    "recommended_crops": ["coconut", "groundnut", "ragi", "paddy", "arecanut"],
+    "recommended_crops_kn": ["ತೆಂಗು", "ಶೇಂಗಾ", "ರಾಗಿ", "ಭತ್ತ", "ಅಡಿಕೆ"],
+    "fertilizer_advice_kn": "ಹಸಿರು ಗೊಬ್ಬರ ಬೆಳೆ ಬೆಳೆಸಿ. ಸೂಕ್ಷ್ಮ ಪೋಷಕಾಂಶ ಕೊರತೆ ಇದೆ, ಜಿಂಕ್ ಸಲ್ಫೇಟ್ ಬಳಸಿ.",
+    "irrigation_note": "Drip irrigation essential, surface irrigation wastes water"
+  },
+  "mandya": {
+    "district": "Mandya",
+    "soil_type": "Black Cotton Soil (Alluvial)",
+    "soil_type_kn": "ಕಪ್ಪು ಹತ್ತಿ ಮಣ್ಣು",
+    "ph_range": "7.0 - 8.2",
+    "organic_carbon": "Medium (0.5-0.7%)",
+    "characteristics": "High clay content, excellent water retention, cracks when dry",
+    "recommended_crops": ["sugarcane", "paddy", "ragi", "banana", "turmeric"],
+    "recommended_crops_kn": ["ಕಬ್ಬು", "ಭತ್ತ", "ರಾಗಿ", "ಬಾಳೆ", "ಅರಿಶಿನ"],
+    "fertilizer_advice_kn": "ಮಣ್ಣು ಫಲವತ್ತಾಗಿದೆ. ಹೆಚ್ಚು ರಸಗೊಬ್ಬರ ಬೇಡ, ಸಾವಯವ ಸಾಕು. ರಂಜಕ ಕೊಡಿ.",
+    "irrigation_note": "Canal irrigation from KRS dam available, careful with waterlogging"
+  },
+  "hassan": {
+    "district": "Hassan",
+    "soil_type": "Laterite with Red Loam",
+    "soil_type_kn": "ಜಂಬಿಟ್ಟಿಗೆ ಕೆಂಪು ಮಣ್ಣು",
+    "ph_range": "5.5 - 6.5",
+    "organic_carbon": "Medium (0.5-0.8%)",
+    "characteristics": "Moderate fertility, good for plantation crops",
+    "recommended_crops": ["coffee", "pepper", "paddy", "arecanut", "cardamom"],
+    "recommended_crops_kn": ["ಕಾಫಿ", "ಮೆಣಸು", "ಭತ್ತ", "ಅಡಿಕೆ", "ಏಲಕ್ಕಿ"],
+    "fertilizer_advice_kn": "ಕಾಫಿ ತೋಟಕ್ಕೆ ಕಾಂಪೋಸ್ಟ್ ಮತ್ತು NPK ಮಿಶ್ರಣ ಹಾಕಿ. ಮಳೆಗಾಲದಲ್ಲಿ ಸುಣ್ಣ ಬೇಕು.",
+    "irrigation_note": "Good rainfall, supplemental irrigation during dry spells"
+  },
+  "mysuru": {
+    "district": "Mysuru",
+    "soil_type": "Red Loam to Black Soil",
+    "soil_type_kn": "ಕೆಂಪು ಮಿಶ್ರ ಕಪ್ಪು ಮಣ್ಣು",
+    "ph_range": "6.5 - 7.5",
+    "organic_carbon": "Medium (0.5-0.7%)",
+    "characteristics": "Mixed soil types, generally good fertility",
+    "recommended_crops": ["tobacco", "sugarcane", "ragi", "paddy", "vegetables"],
+    "recommended_crops_kn": ["ತಂಬಾಕು", "ಕಬ್ಬು", "ರಾಗಿ", "ಭತ್ತ", "ತರಕಾರಿ"],
+    "fertilizer_advice_kn": "ಸಮತೋಲಿತ NPK ಬಳಸಿ. ಸಾವಯವ ಗೊಬ್ಬರ ಮಣ್ಣಿನ ಆರೋಗ್ಯ ಕಾಪಾಡುತ್ತದೆ.",
+    "irrigation_note": "Kabini canal system available in parts"
+  }
+}
