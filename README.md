@@ -1,6 +1,6 @@
 # Farming Assistant: Voice-First AI & Computer Vision for Rural Karnataka
 
-A voice-and-camera based farming assistant designed for low-literacy Kannada-speaking farmers in rural Karnataka, India. Built as a B.Tech CS final year project at UVCE, Bangalore.
+A voice-and-camera based farming assistant designed for low-literacy Kannada-speaking farmers in rural Karnataka, India. A personal project.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.3-green.svg)
@@ -11,9 +11,7 @@ A voice-and-camera based farming assistant designed for low-literacy Kannada-spe
 
 ## Problem Statement
 
-Over 60% of farmers in rural Karnataka cannot comfortably read digital interfaces in English or even Kannada script. Existing agri-tech apps assume text literacy, leaving out the farmers who need help the most. They need a **voice-first, camera-assisted** tool that speaks their language and understands their problems.
-
-This project was built after spending time with farmers in **Kolar district** who grow tomatoes, ragi, and grapes — and watching them struggle with text-heavy apps they couldn't use.
+Many farmers in rural Karnataka cannot comfortably read digital interfaces in English or even Kannada script. Existing agri-tech apps assume text literacy, leaving out the farmers who need help the most. They need a **voice-first, camera-assisted** tool that speaks their language and understands their problems.
 
 ## Features
 
@@ -90,7 +88,7 @@ This project was built after spending time with farmers in **Kolar district** wh
 ### Installation
 
 ```bash
-git clone https://github.com/rahul-kolar/farming-assistant.git
+git clone https://github.com/rahul25012003/farming-assistant.git
 cd farming-assistant
 
 # Create virtual environment
@@ -122,7 +120,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="config/gcp-credentials.json"
 python app.py
 ```
 
-The server starts at `http://localhost:5000`. Open in a browser or use the Android companion app.
+The server starts at `http://localhost:5000`. Open it in a browser.
 
 ### API Endpoints
 
@@ -131,14 +129,6 @@ The server starts at `http://localhost:5000`. Open in a browser or use the Andro
 | `/voice` | POST | Send Kannada audio, get audio response |
 | `/diagnose` | POST | Send leaf image, get disease diagnosis |
 | `/health` | GET | Health check |
-
-## Demo Screenshots
-
-> Screenshots coming soon - currently testing with farmers in Kolar taluk
-
-| Voice Interaction | Disease Detection | Market Prices |
-|---|---|---|
-| *screenshot placeholder* | *screenshot placeholder* | *screenshot placeholder* |
 
 ## Project Structure
 
@@ -194,10 +184,7 @@ farming-assistant/
 
 ## Acknowledgements
 
-- Farmers of Kolar, Malur, and Bangarpet taluks who patiently tested early prototypes
-- Dr. [Professor Name], UVCE, for project guidance
 - PlantVillage dataset for crop disease training data
-- Google Cloud for Education credits
 
 ## License
 
